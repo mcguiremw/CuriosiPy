@@ -4,7 +4,7 @@ docutils==0.14
 gpiocrust==1.0.0
 idna==2.6
 lockfile==0.12.2
-luigi==2.7.0
+luigi==2.8.0
 numpy==1.13.1
 pandas==0.20.3
 py==1.4.34
