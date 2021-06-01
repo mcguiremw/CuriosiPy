@@ -27,6 +27,6 @@ setup(
         'pytz==2017.2',
         'requests==2.18.4',
         'tornado==4.5.2',
-        'urllib3==1.22'
+        'urllib3==1.26.5'
     ],
 )
