@@ -18,7 +18,7 @@ setup(
         'idna==2.6',
         'lockfile==0.12.2',
         'luigi==2.7.0',
-        'numpy==1.13.1',
+        'numpy==1.21.0',
         'pandas==0.20.3',
         'py==1.4.34',
         'pytest==3.2.1',
