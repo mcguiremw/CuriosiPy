@@ -11,7 +11,7 @@ setup(
     tests_require=['pytest'],
     packages=['src'],
     install_requires=[
-        'certifi==2017.7.27.1',
+        'certifi==2022.12.7',
         'chardet==3.0.4',
         'docutils==0.14',
         'gpiocrust==1.0.0',
